@@ -31,7 +31,7 @@ mkdir src
 cd src
 git clone https://github.com/DanaWentBananas/SimulatedMapping1.git
 ```
-4. Make sure to change the name of the folder from SimulatedMappin1 to dev_pkg
+4. Make sure to change the name of the folder from SimulatedMapping1 to dev_pkg
 
 5. Go back to the ws
 ```
