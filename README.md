@@ -4,7 +4,7 @@ This repository contains code for a ROS2 Gazebo simulation using the Humble Hawk
 
 ## Acknowledgment
 
-This project was inspired by and based on the work of the [ https://github.com/joshnewans/articubot_one.git ]
+This project was inspired by and based on the work of this repo [ https://github.com/joshnewans/articubot_one.git ]
 
 ## Prerequisites
 
