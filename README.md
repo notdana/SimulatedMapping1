@@ -9,6 +9,39 @@ This repository contains code for a ROS2 Gazebo simulation using the Humble Hawk
 - Gazebo
 - teleop_twist_keyboard
 
+## Getting the code on your machine
+ 
+1. Create a workspace
+```
+mkdir map_ws
+```
+
+2. Go inside the ws and create a src folder
+```
+cd map_ws
+mkdir src
+```
+
+3. Go inside the src folder and clone the repo
+```
+cd src
+git clone https://github.com/DanaWentBananas/SimulatedMapping1.git
+```
+
+4. Go back to the ws
+```
+cd ..
+```
+OR
+```
+cd path_to/map_ws
+```
+
+5. build it
+```
+colcon build
+```
+
 ## Running the Simulation
 
 To run the simulation, follow the steps below:
