@@ -2,7 +2,7 @@
 
 This repository contains code for a ROS2 Gazebo simulation using the Humble Hawksbill version on Ubuntu 22.04 Jammy Jellyfish. The simulation utilizes Gazebo as the simulator and teleop_twist_keyboard for robot movement.
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://youtu.be/wXF6daCp1zA)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wXF6daCp1zA/0.jpg)](https://youtu.be/wXF6daCp1zA)
 
 
 ## Acknowledgment
