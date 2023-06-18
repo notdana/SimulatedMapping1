@@ -31,8 +31,9 @@ mkdir src
 cd src
 git clone https://github.com/DanaWentBananas/SimulatedMapping1.git
 ```
+4. Make sure to change the name of the folder from SimulatedMappin1 to dev_pkg
 
-4. Go back to the ws
+5. Go back to the ws
 ```
 cd ..
 ```
@@ -41,7 +42,7 @@ OR
 cd path_to/map_ws
 ```
 
-5. build it
+6. build it
 ```
 colcon build
 ```
