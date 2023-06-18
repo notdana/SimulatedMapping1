@@ -15,6 +15,7 @@ This project was inspired by and based on the work of this repo [ https://github
 - Ubuntu 22.04 Jammy Jellyfish
 - Gazebo
 - teleop_twist_keyboard
+- xacro
 
 ## Getting the code on your machine
  
