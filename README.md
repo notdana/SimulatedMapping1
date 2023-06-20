@@ -19,7 +19,7 @@ This project was inspired by and based on the work of this repo [ https://github
 
 ## Getting the code on your machine
  
-1. Create a workspace
+1. Create a workspace inside home (~)
 ```
 mkdir map_ws
 ```
@@ -50,6 +50,19 @@ cd path_to/map_ws
 ```
 colcon build
 ```
+
+7. source !!
+```
+sudo vim ~/.bashrc
+```
+inside the file add these lines:
+```
+source /opt/ros/humble/setup.bash
+source ~/map_ws/install/setup.bash
+source /usr/share/colcon_argcomplete/hook/colcon-argcomplete.bash
+
+```
+
 
 ## Running the Simulation
 
