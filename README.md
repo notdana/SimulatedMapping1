@@ -4,6 +4,8 @@ This repository contains code for a ROS2 Gazebo simulation using the Humble Hawk
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wXF6daCp1zA/0.jpg)](https://youtu.be/wXF6daCp1zA)
 
+![alt text](https://github.com/DanaWentBananas/SimulatedMapping1/blob/main/simulated_mapping.png?raw=true)
+
 
 ## Acknowledgment
 
